@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bharath-venkatesan-95546627a/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bwnkdvej9rxswa4b9xyu9qq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bharath-venkatesan-95546627a/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bwnkdvej9rxswa4b9xyu9qq%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bharathvenkatesan467/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bharath-venkatesan-95546627a/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bwnkdvej9rxswa4b9xyu9qq%3d%3d" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/bharath_467/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bharath_467/" height="30" width="40" /></a>
 </p>
 
