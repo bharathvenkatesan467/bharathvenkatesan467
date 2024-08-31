@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharath V K</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathvenkatesan467&label=Profile%20views&color=0e75b6&style=flat" alt="bharathvenkatesan467" /> </p>
-
 - 🔭 I’m currently working on **Twist of Tails**
 
 - 🌱 I’m currently learning **Full Stack.**
@@ -11,9 +9,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yHNebSh49NQ8bEOIftRj-u0p5cX8cmYT/view?usp=sharing](https://drive.google.com/file/d/1yHNebSh49NQ8bEOIftRj-u0p5cX8cmYT/view?usp=sharing)
 
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=bharathvenkatesan467&label=Profile%20views&color=0e75b6&style=flat" alt="bharathvenkatesan467" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bharath-venkatesan-95546627a/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bwnkdvej9rxswa4b9xyu9qq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bharath-venkatesan-95546627a/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bwnkdvej9rxswa4b9xyu9qq%3d%3d" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/bharath_467/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bharath_467/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
